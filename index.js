@@ -1,5 +1,5 @@
 let img = document.createElement('img');
-img.src = 'cat17.png';
+img.src = 'assets/cat17.png';
 
 let box = document.getElementById('box');
 
